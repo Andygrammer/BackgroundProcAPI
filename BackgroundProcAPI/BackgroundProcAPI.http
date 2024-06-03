@@ -1,0 +1,6 @@
+@BackgroundProcAPI_HostAddress = http://localhost:5034
+
+GET {{BackgroundProcAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
